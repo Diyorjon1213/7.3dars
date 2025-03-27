@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bob Johnson",
+    "email": "bobjohnson@example.com",
+    "password": "bobsecure123",
+    "age": 28
+  },
+  {
+    "name": "Emily White",
+    "email": "emilywhite@example.com",
+    "password": "emilysecure",
+    "age": 27
+  },
+  {
+    "name": "Charlie Brown",
+    "email": "charliebrown@example.com",
+    "password": "charliepass",
+    "age": 22
+  }
+]
